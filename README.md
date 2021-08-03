@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @tae1han aka Alex Han
+- 👀 I’m interested in ... music & computational cognitive science
+- 🌱 I’m currently learning ... machine learning, music information retrieval, algorithmic composition
+- I use Python, Max/MSP, and OpenMusic/OM#
+- 💞️ I’m looking to collaborate on ... generative music models, code-fueled compositions, musical analysis
+- 📫 How to reach me ... my personal website is alexhan-musicandmind.com. My contact information can be found there
